@@ -1,4 +1,5 @@
 *.log
 *.swo
 *.swp
+*.DS_Store
 output/
