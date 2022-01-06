@@ -1,100 +1,45 @@
-Johnny Coder
+Peter Argany
 ============
-
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**University of Waterloo**; BASc Computer Engineering Class of 2016
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+* Entrepreneurship Minor
+* Ranked 5th in class of 2016 Computer Engineers – Dean’s Honours List
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Facebook/Meta (2015 - Present)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* **2021 - Present**: Novi Dev Infra: I build a backend ledger system for the Novi crypto wallet using Rust. The ledger manages state for all off-chain transactions.
+* **2018 - 2021**: React Native Core Team: RN is one of the largest OSS projects in the world. I was the iOS
+"team expert". I created new APIs, improved performance, and worked on large re-architectures. Some of my work here is on [Github](https://github.com/facebook/react-native/commits?author=PeteTheHeat), check it out!
+* **2015 - 2017**: iOS Newsfeed: Built and shipped several features for Facebook Newsfeed on iPhone and iPad.
+* Technologies Used: Rust, JS, ObjC, C++, GraphQL, Mercurial
 
-* First item
+**Microsoft (May - Aug 2014)**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Developed [Voice Commander](https://www.microsoft.com/en-us/garage/profiles/voice-commander/), an Xbox One game.
+* Created system which parsed voice commands with over 90% accuracy
+* Pitched game to Xbox VP’s, designed various levels & audio script, designed & implemented achievements
+* Technologies Used : C++, DirectX11, Xbox ADK, TFS version control, GRXML
 
-**That Other Job You Had**
+**Autodesk Inc (Jan - Apr 2013)**
 
-Also with a short description.
+* Created a 3D navigation web application tool.
+* Worked closely with PhD researcher on C++ implementation of drawing
+simulation tool, which later won 3 awards at 2014 ACM CHI and SIGGRAPH
+* Technologies Used: JS, Three.js, HTML5, C++, QT
 
-Technical Experience
---------------------
+**Xtreme Labs (May - Aug 2012)**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* Designed and implemented several iterations of Cineplex iOS app, the top movie application in the Canadian App Store
+* Added loyalty program login and edit, following the MVC design pattern
+* Technologies Used: ObjC, Git, JSON & XML
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <pargany81@gmail.com> • Redwood City, California \
+> [www.peterargany.com](https://www.peterargany.com)
