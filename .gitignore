@@ -3,3 +3,7 @@
 *.swp
 *.DS_Store
 output/
+result
+result-*
+.envrc
+.direnv
